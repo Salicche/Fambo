@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$color_white: #fff;
+$color_prime: #808682;
+$color_grey: #e2e2e2;
+$color_grey_dark: #474747;
+
+@import "mainubicacion";
+@import "header";
+@import "footer";
+@import "mainnosotros";
+@import "mainIndex";
+@import "mainproductos";
+@import "maincontactos";
+
+
+

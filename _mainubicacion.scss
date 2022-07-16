@@ -1,0 +1,15 @@
+.principal{
+    background-color: rgb(200, 201, 245);
+}
+
+.contUbicacion{
+    @extend .contenedorNos;
+}
+
+.contenidotext{
+    @extend .descripcion;
+}
+
+.ubiImg{
+    @extend .descImg;
+}

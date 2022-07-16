@@ -1,0 +1,22 @@
+.principal{
+
+
+}
+
+.banner{
+    width: 100%;
+    height: 300px;
+}
+
+.contenido{
+    margin: 20px;
+    padding: 20px;
+    .contacto{
+        display: flex;
+        justify-content: space-between;
+    }
+    .catalogo{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}

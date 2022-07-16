@@ -1,0 +1,22 @@
+
+.header {
+    background-color: #1F4881;
+    padding: 20px;
+    color: white;
+  }
+  
+  .navbar-collapse ul li a {
+    color: white !important;
+  }
+  
+  .navbar-collapse ul li a:hover {
+    color: rgb(150, 150, 150) !important;
+  }
+  
+  .logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    /* padding: 1.5rem; */
+  }
